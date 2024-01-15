@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prosiege
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
