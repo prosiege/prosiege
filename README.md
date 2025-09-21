@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @prosiege
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-prosiege/prosiege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 Aspiring Python Developer  
+- 🌱 Currently learning Python fundamentals and problem solving  
+- 🎯 Interested in Web Development, Data Analysis, Automation and AI  
+- 🤝 Open to collaborate on beginner-friendly Python projects  
+- 📫 How to reach me: Ivaylo89@protonmail.com  
